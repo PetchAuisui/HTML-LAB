@@ -3,3 +3,7 @@
 1. อธิบายโครงสร้างของ HTML ได้ 
 2. สามารถใช้งาน HTML tag พื้นฐานได้ 
 3. สามารถสร้างหน้าเว็บเพจอย่างง่ายได้
+## เครื่องมือที่ใช้
+1. Visual Studio Code
+2. Web Browser 
+3. Extension Live Server
